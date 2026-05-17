@@ -1,0 +1,18 @@
+/* === STEFAN37 SITE - DESIGN V1 (BACKUP) ===
+ * Original dark theme with larger spacing and bigger fonts.
+ * To restore: rename this file to style.css
+ *
+ * Key differences from V2:
+ * - --max: 1140px (vs 1100px)
+ * - --r: 14px (vs 16px)
+ * - Larger font sizes (hero title clamp 32-56px vs 30-52px)
+ * - Bigger card padding (28px 22px vs 24px 20px)
+ * - Bigger gaps (18px vs 16px)
+ * - Section padding 90px vs 80px
+ * - Project image height 140px vs 120px
+ * - More opaque cards rgba(16,16,38,.65) vs rgba(16,16,36,.5)
+ * - Service icon 46px vs 42px
+ *
+ * This backup is kept for reference.
+ * The V2 design (current style.css) is tighter and more refined.
+ */
