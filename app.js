@@ -23,9 +23,9 @@ createApp({
 
         // Stats with animation
         const stats = reactive([
-            { target: 50, current: 0, label: 'Projects Delivered', suffix: '+' },
-            { target: 30, current: 0, label: 'Happy Clients', suffix: '+' },
-            { target: 1, current: 0, label: 'Years Experience', suffix: '+' }
+            { target: 10, current: 0, label: 'Projects Delivered', suffix: '+' },
+            { target: 10, current: 0, label: 'Happy Clients', suffix: '+' },
+            { target: 2, current: 0, label: 'Years Experience', suffix: '+' }
         ]);
 
         // Services
